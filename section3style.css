@@ -1,0 +1,32 @@
+.success{
+    text-align: center;
+    margin-top: 10%;
+}
+.skill-container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.skill-title{
+   font-weight: 700;
+   font-size: 15px;
+   color: black;
+   margin-left: 15px;
+   margin-bottom: 5px;
+}
+.skill{
+    background: oldlace;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    padding-top: 0%;
+}
+.skill-descriptipn{
+    font-size: medium;
+    font-family: 'Times New Roman';
+    color: #000;
+}
+.section-title{
+    font-size: 25px;
+    color: orangered;
+    margin-bottom: 20px;
+}
